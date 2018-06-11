@@ -11,5 +11,5 @@ This repository contains the codebase for ARESv2. Link to documentation will be 
 
 ### INSTRUCTIONS: (Under construction)
 
-1) Running:
-  1a) Run log.py with python. 
+1. Running
+   1. Run log.py with python. 
