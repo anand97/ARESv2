@@ -9,6 +9,14 @@ Rehabilitation of patients who have recovered from a stroke is a tedious and dif
 
 This repository contains the codebase for ARESv2. Link to documentation will be provided soon. 
 
+### Publication
+
+Anand Asokan*, Vigneshwar M (2019), Design and Control of an EMG-based Low-cost Exoskeleton for Stroke
+Rehabilitation, Fifth Indian Control Conference (ICC 2019), IIT Delhi, New Delhi, India, Jan. 9-11, 2019.
+
+https://ieeexplore.ieee.org/document/8715555
+
+
 ### INSTRUCTIONS: (Under construction)
 
 1. Running
